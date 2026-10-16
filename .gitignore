@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/
+*.nii
+*.nii.gz
+models/*.onnx
+!models/.gitkeep
+
+results/runs/
+models/*_int8.onnx
+models/*_qnn.onnx

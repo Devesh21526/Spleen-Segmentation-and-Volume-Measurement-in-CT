@@ -1,0 +1,10 @@
+.git
+__pycache__
+*.pyc
+.pytest_cache
+notebooks/
+results/
+docs/
+data/
+*.nii
+*.nii.gz

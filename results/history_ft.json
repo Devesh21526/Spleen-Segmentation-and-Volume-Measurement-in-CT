@@ -1,0 +1,161 @@
+{
+  "source": "parsed from the notebook log, logged every 5 epochs",
+  "note": "stage 2, cosine lr, validation Dice after largest-component",
+  "best": {
+    "epoch": 50,
+    "loss": 0.2621,
+    "val_dice": 0.9005
+  },
+  "points": [
+    {
+      "epoch": 5,
+      "loss": 0.2886,
+      "val_dice": 0.7565
+    },
+    {
+      "epoch": 10,
+      "loss": 0.2755,
+      "val_dice": 0.7578
+    },
+    {
+      "epoch": 15,
+      "loss": 0.249,
+      "val_dice": 0.834
+    },
+    {
+      "epoch": 20,
+      "loss": 0.2439,
+      "val_dice": 0.8331
+    },
+    {
+      "epoch": 25,
+      "loss": 0.2451,
+      "val_dice": 0.7981
+    },
+    {
+      "epoch": 30,
+      "loss": 0.2244,
+      "val_dice": 0.7504
+    },
+    {
+      "epoch": 35,
+      "loss": 0.2293,
+      "val_dice": 0.7801
+    },
+    {
+      "epoch": 40,
+      "loss": 0.2774,
+      "val_dice": 0.7902
+    },
+    {
+      "epoch": 45,
+      "loss": 0.2341,
+      "val_dice": 0.7631
+    },
+    {
+      "epoch": 50,
+      "loss": 0.2621,
+      "val_dice": 0.9005
+    },
+    {
+      "epoch": 55,
+      "loss": 0.234,
+      "val_dice": 0.8505
+    },
+    {
+      "epoch": 60,
+      "loss": 0.249,
+      "val_dice": 0.8027
+    },
+    {
+      "epoch": 65,
+      "loss": 0.2625,
+      "val_dice": 0.8176
+    },
+    {
+      "epoch": 70,
+      "loss": 0.2065,
+      "val_dice": 0.8338
+    },
+    {
+      "epoch": 75,
+      "loss": 0.2525,
+      "val_dice": 0.7966
+    },
+    {
+      "epoch": 80,
+      "loss": 0.2573,
+      "val_dice": 0.8934
+    },
+    {
+      "epoch": 85,
+      "loss": 0.1953,
+      "val_dice": 0.8105
+    },
+    {
+      "epoch": 90,
+      "loss": 0.2298,
+      "val_dice": 0.7781
+    },
+    {
+      "epoch": 95,
+      "loss": 0.2147,
+      "val_dice": 0.8457
+    },
+    {
+      "epoch": 100,
+      "loss": 0.2293,
+      "val_dice": 0.8647
+    },
+    {
+      "epoch": 105,
+      "loss": 0.2162,
+      "val_dice": 0.7876
+    },
+    {
+      "epoch": 110,
+      "loss": 0.2351,
+      "val_dice": 0.7845
+    },
+    {
+      "epoch": 115,
+      "loss": 0.209,
+      "val_dice": 0.851
+    },
+    {
+      "epoch": 120,
+      "loss": 0.2102,
+      "val_dice": 0.8395
+    },
+    {
+      "epoch": 125,
+      "loss": 0.2192,
+      "val_dice": 0.8827
+    },
+    {
+      "epoch": 130,
+      "loss": 0.194,
+      "val_dice": 0.8552
+    },
+    {
+      "epoch": 135,
+      "loss": 0.2183,
+      "val_dice": 0.8179
+    },
+    {
+      "epoch": 140,
+      "loss": 0.2184,
+      "val_dice": 0.8817
+    },
+    {
+      "epoch": 145,
+      "loss": 0.2137,
+      "val_dice": 0.8538
+    },
+    {
+      "epoch": 150,
+      "loss": 0.22,
+      "val_dice": 0.8681
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "counts": {
+    "train": 29,
+    "val": 6,
+    "test": 6
+  },
+  "test": [
+    "spleen_20.nii.gz",
+    "spleen_14.nii.gz",
+    "spleen_21.nii.gz",
+    "spleen_61.nii.gz",
+    "spleen_44.nii.gz",
+    "spleen_41.nii.gz"
+  ],
+  "note": "The shuffle is deterministic, so the full train/val lists rebuild exactly with `python -m src.utils.splits --data data/Task09_Spleen` once the dataset is present. That command checks the regenerated test set against the one above and refuses to write if it differs."
+}
